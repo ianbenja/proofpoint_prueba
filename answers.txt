@@ -1,0 +1,20 @@
+1. Describe the most relevant learnings from programming-related subjects.
+
+One of the most important learnings in my programming journey has been mastering the object oriented programming  paradigm. Understanding how to design modular and reusable components has been crucial for writing clean and maintainable code. Additionally, I’ve gained valuable experience working with search and sorting algorithms, which have helped me optimize the performance of my applications. Another key area has been database management, where I’ve learned to design efficient schemas and write complex queries.
+On the practical side, I’ve worked on a few web development projects where I used React and Angular for building dynamic and responsive frontends. For the backend, I developed RESTful APIs and deployed them on AWS, which gave me hands on experience with cloud services and infrastructure management.
+
+2.Describe a situation you had to resolve with a teammate from a study or work group.
+
+In a course project, my team of four had to build a web app, but we faced challenges due to differing skill sets. One member knew React, another knew Angular, and the rest of us had limited experience. Since I had worked a little with both frameworks, I helped the Angular developer adapt to the project by explaining how to integrate components. We also used Next UI for the frontend, where we encountered an error because a variable name didn’t match the library’s expectations. After hours of debugging, I suggested checking the documentation, and we were able to fix it.
+For the backend, I worked with one teammate on AWS deployment, even though my knowledge was almost nonexistent at the start. We used Lambda for serverless functions, API Gateway to manage endpoints, and Layers to share dependencies. It was difficult at first, but by researching and collaborating, we managed to get everything working.
+Throughout the project, we used GitHub to manage our codebase. Each team member communicated what they were working on, and we regularly updated the repository to avoid conflicts. Before merging, we would notify each other to review the changes and resolve any conflicts together. This approach helped us stay organized and ensured smooth collaboration.
+This experience taught me the value of teamwork and the importance of paying attention to details. It also showed me how effective communication and collaboration tools like GitHub can streamline development and prevent issues.
+
+
+3. Describe your personal learning plans or development expectations in technical areas.
+
+My personal learning plans focus on three key areas: cybersecurity, backend development, and cloud computing. I’m currently working on building RESTful APIs and gaining hands-on experience with AWS through a personal project.
+What excites me most is the opportunity to grow my knowledge in these areas within Proofpoint. I’m also open to exploring other areas that I may not yet be familiar with, as I’m always eager to learn and expand my skill set. I believe that being adaptable and curious is essential in the tech industry, and I’m excited to embrace new challenges and opportunities for growth.
+
+
+Below, I am attaching the compressed file with the requested files. Additionally, I have included the CSV file used for testing in part B, as well as the requirements.txt file for the library I used. I also want to clarify that part C is designed for English text, so it does not support words with accents.
